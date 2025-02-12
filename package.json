@@ -1,0 +1,23 @@
+{
+  "name": "newrepo",
+  "version": "1.0.0",
+  "description": "This is going to be a Generator that will create a professional ReadMe.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mauros550/GeneratorReadMe.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Mauros550/GeneratorReadMe/issues"
+  },
+  "homepage": "https://github.com/Mauros550/GeneratorReadMe#readme",
+  "dependencies": {
+    "inquirer": "^8.2.6"
+  }
+}
